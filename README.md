@@ -6,6 +6,9 @@
 
 - moment - JavaScript Library for working with date and time data
 - axios - Promise-based HTTP Client
+- expo-location - To access GPS location
+- aync-storage - for persisting data (@react-native-async-storage/async-storage)
+- sync-storage - saving data synchronously
 
 ## Available Scripts
 
@@ -28,3 +31,8 @@ expo build:android -t apk
 ```sh
 expo build:ios
 ```
+
+## Templated over:
+
+> React Native E-Learning App
+> https://github.com/Minte-grace/React-Native-Elearning-
